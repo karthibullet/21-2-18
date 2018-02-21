@@ -2,8 +2,9 @@
 #include<stdio.h>
 void main()
 {
-inr n1,n2;
-printf("enter 2 numbers");
-scanf("%d%d",&n1,&n2);
-printf("sum = %d", n1+n2);
+int m,n,o;;
+printf("Enter the  two number:");
+scanf("%d%d",&m,&n);
+o=m+n;
+  printf("%d",o);
 }
